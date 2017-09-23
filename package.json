@@ -1,0 +1,23 @@
+{
+  "name": "partial-applier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelmont/partial-application.git"
+  },
+  "keywords": [],
+  "author": "Jean-Marcel Belmont <marcelbelmont@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbelmont/partial-application/issues"
+  },
+  "homepage": "https://github.com/jbelmont/partial-application#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
