@@ -1,10 +1,5 @@
 ## Partial Application
 
-## Sections:
-
-* [Definition of Partial Application]
-* [Usage of Partial Application]()
-
 #### PARTIAL APPLICATION IN JAVASCRIPT
 
 Definition from Wikipedia
